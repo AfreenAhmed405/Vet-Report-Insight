@@ -1,0 +1,60 @@
+items,results,details
+age,13,
+breed,Bichon Frise,
+gender,male,
+neuter_status,yes,
+vomit_nausea,yes,He had been very lethargic for the week prior to presentation. He was not wanting to eat and was drinking a lot more water than usual. The day of presentation was the first day he had any diarrhea or vomiting.
+lethargy_weakness,yes,He had been very lethargic for the week prior to presentation.
+appetite_loss,yes,He was not wanting to eat
+diarrhea_melena,yes,He has a history of getting into the garbage. The day of presentation was the first day he had any diarrhea or vomiting.
+abdominal_pain,yes,Abdomen was painful when palpated in the cranial portion
+weight_loss,yes,Weight: 8.6 kg
+duration,1 week prior to presentation,The day of presentation was the first day he had any diarrhea or vomiting.
+bw,8.6 kg,
+temp,100.6°F,
+hr,112/min,
+rr,24/min,
+bcs,4/9,
+hydration_status,dehydrated,
+wbc,28.5,
+red_blood_cell_count,4.64,
+hemoglobin,9.9,
+packed_cell_volume,29.8,
+mean_corpuscular_volume,64.2,
+mean_corpuscular_hemoglobin_concentration,33.2,
+plasma_protein,6.5,
+platelet_count,347000,
+absolute_neutrophil,24510,
+absolute_bands,0,
+absolute_lymphocyte,1140,
+absolute_monocyte,2850,
+absolute_eosinophil,100,
+absolute_basophil,N/A,
+absolute_other,N/A,
+glucose,396,
+lactic_acid,15.2,
+blood_urea_nitrogen,12,
+creatinine,0.56,
+sodium,132,
+potassium,3.5,
+enzymatic_carbon_dioxide,9,
+chloride,101,
+anion_gap_calculated,26.3,
+calcium,8.2,
+phosphorus,3.2,
+magnesium,1.3,
+total_protein,5.5,
+albumin,2.9,
+globulin,2.5,
+total_bilirubin,<0.1,
+gamma_glutamyltransferase,12,
+alanine_aminotransferase,55,
+alkaline_phosphatase,213,
+cholesterol,214,
+cPLI,2001,
+size_of_pancreas,N/A,The pancreas appears normal in appearance.
+echogenecity_of_pancreatic_parenchyma,normal,N/A
+echogenecity_of_peripancreatic_mesentery,N/A,N/A
+pancreatic_echotexture,N/A,N/A
+presence_free_fluid_effusion,N/A,N/A
+conclusions_about_pancreas,The pancreas appears normal in appearance,The pancreas appears normal in appearance.
